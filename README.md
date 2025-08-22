@@ -12,7 +12,7 @@ https://psikiyatrirehberi.com/ankara/cocuk-ve-ergen
 - Ruh sağlığına dair sıkça sorulan sorular ve kaynaklar
 
 ## 🧠 Hedef Kitle
-
+https://medium.com/@psikiyatrirehberi/psikiyatri-rehberi-takvim-ve-randevu-sistemi-a190eab9e1a6
 - Ebeveynler
 - Danışanlar
 - Ruh sağlığı profesyonelleri
