@@ -37,3 +37,4 @@ npm install  # veya yarn
 npm start
 
 https://psikiyatrirehberi.com/ankara/cocuk-ve-ergen
+https://medium.com/@psikiyatrirehberi/psikiyatri-rehberi-takvim-ve-randevu-sistemi-a190eab9e1a6
